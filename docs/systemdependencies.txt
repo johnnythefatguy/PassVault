@@ -1,0 +1,14 @@
+##### Windows #####
+
+No additional system dependencies required
+
+##### Linux #####
+
+Requires "xsel" or "xclip" for clipboard access, xsel does not always seem
+to work
+Otherwise gtk or PyQt4 will need to be installed
+
+##### MacOS #####
+
+On Mac, it makes use of the pbcopy and pbpaste commands, which should come
+with the os.
