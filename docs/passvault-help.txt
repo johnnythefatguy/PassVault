@@ -40,4 +40,6 @@ password.
 
 4. Editing information - After you click on edit a new window with a search
 bar will pop up. Type in the website or app name you need to edit and hit
-search. This will pull up the edit screen here you can edit your password, username, or both. If you only need to update one fill that line and press the corresponding button. If you want to edit both fill in both lines and hit save both.
+search. This will pull up the edit screen here you can edit your password, username, or both. 
+If you only need to update one fill that line and press the corresponding button. If you want 
+to edit both fill in both lines and hit save both.
